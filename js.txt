@@ -1,0 +1,20 @@
+1) You can push elements in a const array but can not use '=' example (X)const arr=[1,2,3,4];
+
+2) var is used to declare global variable and let is used to declare scope variables
+
+3) history.go(-1) will take you back and history.go(1) will take yopu front
+
+4) while usiing css in js we need to use camel case like marginTop instead of margin-top
+
+5) Node Types:
+  1) elements
+  2) attribute
+  3) text Node
+  8) comment
+  9) document
+  10) doctype
+
+
+6) childNodes take everything including text and comment while children takes only html elements like div,h1,section etc.
+
+7) Pure JavaScript is called Vanilla JavaScript which does not use any kind of library!!
